@@ -138,7 +138,7 @@ We ❤️ contributions! Here's how you can get involved:
 ## 💬 Contact
 
 Have questions or feedback? Feel free to reach out! 😊  
-📧 Email: [your-email@example.com](mailto:pendem.mu@northeastern.edu)  
+📧 Email: [pendem.mu@northeastern.edu](mailto:pendem.mu@northeastern.edu)  
 
 <!--🌐 Website: [Your Portfolio](https://yourportfolio.com)  -->
 
